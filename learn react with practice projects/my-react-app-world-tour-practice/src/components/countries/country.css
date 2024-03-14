@@ -1,0 +1,56 @@
+.visited{
+    background-color: steelblue !important;
+    color: rgb(255, 255, 255) !important;
+}
+
+.selected-country-container img{
+width: 100px;
+}
+.selected-country-container{
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.country-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+
+@media screen and (max-width: 700px) {
+    .country-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+.box img{
+    width: 100%;
+}

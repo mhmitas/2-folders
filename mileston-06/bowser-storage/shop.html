@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>shoping storage</title>
+    <style>
+        body {
+            background-color: #00001a;
+            color: whitesmoke;
+        }
+
+        .container input {
+            font-size: 20px;
+            padding: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Hello, welcome to using the web storage</h1>
+    <hr>
+    <div class="container">
+        <input id="product-name" type="text" placeholder="Enter product name">
+        <input type="text" id="product-quantity" placeholder="Enter Quantity">
+        <br><br><button onclick="addProduct()">Add Product</button>
+    </div>
+    <hr>
+    <div>
+        <h2>Products</h2>
+        <ul id="product-container">
+
+        </ul>
+    </div>
+
+
+    <script src="shop.js"></script>
+</body>
+
+</html>

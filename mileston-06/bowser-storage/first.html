@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>web storage</title>
+    <style>
+        body {
+            background-color: #00001a;
+            color: whitesmoke;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Hello, welcome to using the web storage</h1>
+    <button id="button-1">click to add item in local storage</button>
+
+
+    <script>
+        document.getElementById('button-1').addEventListener('click', function () {
+            localStorage.setItem('name', 'mahim')
+            console.log(localStorage.getItem('name'))
+        })
+    </script>
+</body>
+
+</html>

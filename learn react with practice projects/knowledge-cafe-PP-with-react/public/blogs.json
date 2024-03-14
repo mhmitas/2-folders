@@ -1,0 +1,72 @@
+[
+    {
+        "author_name": "John Doe",
+        "author_image": "https://images.unsplash.com/photo-1615109398623-88346a601842?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "cover_image": "https://i.ibb.co/HDbRZXm/Rectangle-1-2.png",
+        "title": "5 Ways to Improve Your Public Speaking Skills",
+        "id": 1,
+        "hashtags": [
+            "publicspeaking",
+            "communication",
+            "tips"
+        ],
+        "posted_date": "2024-03-14",
+        "read_time": 15
+    },
+    {
+        "author_name": "Jane Smith",
+        "author_image": "https://images.unsplash.com/photo-1590086782957-93c06ef21604?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "cover_image": "https://i.ibb.co/Kw4WgSH/Rectangle-1-1.png",
+        "title": "The Power of Positive Thinking",
+        "id": 2,
+        "hashtags": [
+            "positivity",
+            "mindset",
+            "wellbeing"
+        ],
+        "posted_date": "2024-03-14",
+        "read_time": 10
+    },
+    {
+        "author_name": "Mike Lee",
+        "author_image": "https://images.unsplash.com/photo-1564564321837-a57b7070ac4f?q=80&w=876&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "cover_image": "https://i.ibb.co/ZffdhV6/Rectangle-1.png",
+        "title": "How to Write Effective Emails",
+        "id": 3,
+        "hashtags": [
+            "communication",
+            "productivity",
+            "work"
+        ],
+        "posted_date": "2024-03-14",
+        "read_time": 20
+    },
+    {
+        "author_name": "Sarah Jones",
+        "author_image": "https://picsum.photos/id/106/200/300",
+        "cover_image": "https://i.ibb.co/F30ByYp/pens-near-notebook-camera-earphones-papers-keyboard.jpg",
+        "title": "The Importance of Time Management",
+        "id": 4,
+        "hashtags": [
+            "productivity",
+            "organization",
+            "goals"
+        ],
+        "posted_date": "2024-03-14",
+        "read_time": 12
+    },
+    {
+        "author_name": "David Kim",
+        "author_image": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWFufGVufDB8fDB8fHww",
+        "cover_image": "https://i.ibb.co/k21RJQ2/notepad-laptop-concept.jpg",
+        "title": "Building a Strong Personal Brand",
+        "id": 5,
+        "hashtags": [
+            "branding",
+            "career",
+            "development"
+        ],
+        "posted_date": "2024-03-14",
+        "read_time": 18
+    }
+]

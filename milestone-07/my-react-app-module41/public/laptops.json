@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "name": "Apple MacBook Air M2",
+        "brand": "Apple",
+        "price": 899.99,
+        "category": "Ultrabook",
+        "features": [
+            "Apple M2 chip",
+            "13.6-inch Retina display",
+            "Lightweight and portable design",
+            "Long battery life"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Dell XPS 15 OLED",
+        "brand": "Dell",
+        "price": 1999.99,
+        "category": "Content Creation",
+        "features": [
+            "11th Gen Intel Core i7 processor",
+            "Nvidia RTX 4070 graphics",
+            "Stunning OLED display",
+            "Excellent build quality"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Dell XPS 15 OLED",
+        "brand": "Dell",
+        "price": 1999.99,
+        "category": "Content Creation",
+        "features": [
+            "11th Gen Intel Core i7 processor",
+            "Nvidia RTX 4070 graphics",
+            "Stunning OLED display",
+            "Excellent build quality"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Dell XPS 15 OLED",
+        "brand": "Dell",
+        "price": 1999.99,
+        "category": "Content Creation",
+        "features": [
+            "11th Gen Intel Core i7 processor",
+            "Nvidia RTX 4070 graphics",
+            "Stunning OLED display",
+            "Excellent build quality"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "LG Gram SuperSlim",
+        "brand": "LG",
+        "price": 1399.99,
+        "category": "Ultrabook",
+        "features": [
+            "Incredibly lightweight design",
+            "Long battery life",
+            "Durable yet thin construction",
+            "17-inch display option"
+        ]
+    }
+]

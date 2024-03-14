@@ -1,0 +1,41 @@
+body {
+  margin: 20px;
+  color: whitesmoke;
+  background-color: #1A202C;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+  padding: 8px;
+}
+
+.myclass {
+  border: 2px solid rgba(255, 255, 0, 0.917);
+  border-radius: 8px;
+  background-color: #101023;
+  padding: 10px;
+  /* margin: 10px; */
+}
+
+.myclass2 {
+  text-align: center;
+}
+
+.box {
+  /* width: 200px; */
+  /* height: 200px; */
+  background-color: #101021;
+  border: 2px solid #81E6D9;
+  color: #ececee;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.border{
+  border: 2px solid #81E6D9;
+  border-radius: 5px;
+  padding: 8px;
+  max-width: fit-content;
+}
+

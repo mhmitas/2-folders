@@ -1,0 +1,27 @@
+.country-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+}
+
+
+img {
+    width: 100%;
+}
+
+.green {
+    background-color: #81E6D9 !important;
+    color: black !important;
+}
+
+/* @media screen and (min-width: 800px) {
+    .country-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+} */
+
+@media screen and (max-width: 780px) {
+    .country-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
